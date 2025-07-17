@@ -1,0 +1,22 @@
+status: 200
+date: Tue, 15 Jul 2025 04:25:45 GMT
+server: gunicorn
+x-powered-by: Zope (www.zope.org), Python (www.python.org)
+content-security-policy: frame-ancestors 'self';
+content-type: application/json
+strict-transport-security: max-age=15552000
+vary: Accept,Accept-Encoding
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-launchpad-revision: cfa369d8c8bbab36b411e1678170ab3f6f956359
+x-lazr-notifications: []
+x-xss-protection: 1; mode=block
+x-vcs-revision: cfa369d8c8bbab36b411e1678170ab3f6f956359
+x-request-id: 1c60fec8-3fb5-41ed-9f67-150f9d879a8f
+content-length: 1707
+-content-encoding: gzip
+content-location: https://api.launchpad.net/devel/~openjdk-r/+archive/ubuntu/ppa?ws.op=getSigningKeyData
+-varied-accept: application/json
+-varied-accept-encoding: gzip, deflate
+
+"-----BEGIN PGP PUBLIC KEY BLOCK-----\n\nmQINBGYziNoBEADCd2O+9Gl5Z1V32O5jzXONKjZY4eufAbxzwP2xKeMFyPtoDHlX\nVPmv0ITIUSdyDx/jlKIGpXbv9FEyJsYBfIbinnNfjLWsPlsbELAaUZz0nBs/4eDO\nQYnwhsoiLpvufA7yiAAFctNKHNF8GR+n+JHuHy2z40VBQ2TyBZULOL1pMpyPl/LP\n+i6x3lHx11moiXl5uB4A2R4V0/eb+eGzwo3IbdGXleh6ojgC0drSdICt+x+HmzsO\nK2q8/TYhTZ4h/Y69bf2MBdebYkjqi+WKt+iuIKofTeUIL6tBSqQRkuDi8AFBMLGN\naaF4r8OLbmfWpZpquhvLgsRBp/unUsERLN7ts+kdE/Hx+2/5I+xjYexUE+cyfLbR\nTUw9tpCsFGhJap/+bUZ2WTF96hag8Qr4nddNIn4l6Uv7Sm6Vgzc2g3BzycTviNUp\nPhv/qGoxRpR6vzTv8d5wTj5v15qo1hyJib4Dmna/kG44dJsl1w8MjHnXSxVi0/Kb\nyCTROEMuwUMZs/cQRtdRwsUhAYtpeHpi10hArC8kgkSzr2QxgWAhqiTuY6ZK1BwY\nTJhoSIMPyrAmuBIuuiewAx+eUN10oNU1Txgdi8exw4IcokXfn1Il5BBFGQY3eZE/\n8ZDb/snIwO0m0IfG1OZLSKCD86m+XcH0HSr7rexXKyN3Ex3DhlLQMXkj2wARAQAB\ntDZMYXVuY2hwYWQgUFBBIGZvciBQUEEgZm9yIE9wZW5KREsgdXBsb2FkcyAocmVz\ndHJpY3RlZCmJAk4EEwEKADgWIQT3wxPbEfHtFIu1EXwIs4EMtwF7iQUCZjOI2gIb\nAwULCQgHAgYVCgkICwIEFgIDAQIeAQIXgAAKCRAIs4EMtwF7iX/7D/98M4ZJ7/8V\nwn8OMU5QiEOOvvbCz6pTbkQV9Qkyp6vA3pI5Y/nUaKuC6/L3Yq0XD4aeSaY0OZLu\nmzo9+ac48jejiR83rlh8ct0wqlCFZ9HqWiYUBPw/AqA9vg8vRwI7ns5kKiCKMw7t\nRdPSOhdmtLoVNGs5qu/Nig5PXbUfq8NWwlnHxYc4W+d0q9uPdqReqSg1QDMT4xD/\nDP6lnxRyT9cfXC2I1UqJcIzSwDv+/GA3XZOmCUmczw0Pzi+j+pukA2MnwvRflm0c\n4o78Z64DVTOKXCHM0KPssYNgNPv7ElHtPStjrCuN1sV5PRqIG31b1vDa3O1QH0cM\np2qvANghrnI49JWvsq5hbt2X48Q64CwHAfEz1yAaAzoBP1kLxtdSjLNgXrz5xjLN\ncAh/RgnDDdbidh6KSJIxU18CKWYDoZJGvVwhADx/Kl1eHeYwZVaCUXXKygQ4ibV+\n3jsgQRRjjyglHCjY1rpHjjuSljbFVffi3ItRrDtTy4nHiCwHS7z54RxQB8Gq0H9I\nbUn0AeoTXjZT2asY2PEz3mrKIEhSKfFEPAF/zXVNB/PjsGBzRC9U3e7tbh8Rt38z\nyCJz785tfZtk+O3/qkleNGJDXDgjNLSBntbcpQQN79lQONyzV7rMf6Xxpkgs4pWN\nA0rsMs2kuVFNcGph9y8EB45tdpmArHH+Yw==\n=p5h9\n-----END PGP PUBLIC KEY BLOCK-----\n"
