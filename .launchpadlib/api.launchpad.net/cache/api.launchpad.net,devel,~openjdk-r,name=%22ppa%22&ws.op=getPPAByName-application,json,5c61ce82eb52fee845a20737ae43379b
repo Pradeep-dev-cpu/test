@@ -1,5 +1,5 @@
 status: 200
-date: Wed, 16 Jul 2025 16:02:53 GMT
+date: Wed, 16 Jul 2025 18:19:34 GMT
 server: gunicorn
 x-powered-by: Zope (www.zope.org), Python (www.python.org)
 content-security-policy: frame-ancestors 'self';
@@ -8,11 +8,11 @@ strict-transport-security: max-age=15552000
 vary: Accept,Accept-Encoding
 x-content-type-options: nosniff
 x-frame-options: SAMEORIGIN
-x-launchpad-revision: 2d6e9435c2df831e66deb7fcbe9f03f78dd14743
+x-launchpad-revision: 4a935a27f849d9e76af17c154eb3e276e860afb7
 x-lazr-notifications: []
 x-xss-protection: 1; mode=block
-x-vcs-revision: 2d6e9435c2df831e66deb7fcbe9f03f78dd14743
-x-request-id: 011d2e97-f57f-4e7b-bcef-e94d7967d926
+x-vcs-revision: 4a935a27f849d9e76af17c154eb3e276e860afb7
+x-request-id: fd6e9bfb-7dcd-4d64-99f1-ac8b992cdff6
 content-length: 1397
 -content-encoding: gzip
 content-location: https://api.launchpad.net/devel/~openjdk-r?name=%22ppa%22&ws.op=getPPAByName
